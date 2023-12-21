@@ -1,16 +1,14 @@
 # 
 <h1 align="center">
-<br>
 MY MONEY MY DECISION
 </h1>
 
 <p align="center">
   My Money My Decision ou simplesmente 3MD, 
-  é um projeto criado em 2019 onde uso a Linguagem Java. 
+  é um projeto criado em 2019 no meu percurso universitario onde uso a Linguagem Java e a sua interface grafica. 
   
 </p>
 <p align="center"> Basicamente é um software simples para ajudar familias no gerenciamento das suas economias. </p>
-<p align="center"> OBS:. O PROJETO NÃO ESTÁ FINALIZADO </p>
 
 <div> 
   <img src="https://i.imgur.com/T0WgBUD.png" alt="LOGIN"  width="400" height="300" >
